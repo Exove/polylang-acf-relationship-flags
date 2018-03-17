@@ -1,5 +1,5 @@
 {
-  "name": "certainlyakey/polylang-acf-relationship-flags",
+  "name": "Exove/polylang-acf-relationship-flags",
   "description": "Adds a tiny flag image corresponding to post and term language to ACF relationship and taxonomy field entries",
   "type": "wordpress-plugin",
   "minimum-stability": "dev",
