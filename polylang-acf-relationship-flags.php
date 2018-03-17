@@ -1,11 +1,11 @@
 <?php
 /*
   Plugin Name: ACF + Polylang Relationship Flags
-  Plugin URI: https://github.com/Exove
-  GitHub URI: https://github.com/Exove
+  Plugin URI: https://github.com/Exove/polylang-acf-relationship-flags
+  GitHub URI: https://github.com/Exove/polylang-acf-relationship-flags
   Description: Adds a tiny flag image corresponding to post/term language in ACF relationship and taxonomy fields.
   Version: 0.1
-  Author: Aleksandr Beliaev
+  Author: Aleksandr Beliaev (Exove)
   Author URI: https://exove.com
   License: GPL v2 or later
 
